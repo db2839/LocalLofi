@@ -1,0 +1,7 @@
+﻿namespace LofiWebPlayer.Biz.Manager
+{
+    internal class ServiceLocator:ServiceLocatorBase
+    {
+
+    }
+}
